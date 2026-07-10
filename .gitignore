@@ -1,0 +1,9 @@
+# Superseded originals - kept locally, not worth doubling repo size for
+# duplicates already used from assets/ and models/.
+/Untitled.png
+/friendly_robot_assistant.glb
+/benza.pdf
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
